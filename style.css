@@ -2,36 +2,46 @@ body {
   padding: 0;
   margin: 0;
 }
-
-.mypage {
+.mainHeader {
+  background: url('/images/Evest-BG.jpg');
+  margin: 0 auto;
   padding: 0;
-  margin: 0;
 }
 
-.header {
+.header-row {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.profilephoto {
-  text-align: center;
-  display: flex;
-}
-
-.videoplayer {
-  background: url('images/bg-vid.jpg');
-}
-
-.formdiv {
+.form {
   text-align: center;
   background: #f9f9f9;
   border-radius: 5px;
-  margin: 60px;
+  margin: 0px;
   padding: 30px 20px;
   margin-bottom: 60px;
 }
+#myButton {
+  background-color: #49a7a7;
+  color: white;
+  border-radius: 3px;
+  font-size: 30px;
+  text-align: center;
+  width: 250px;
+}
 
-.importants {
-  display: flex;
-  justify-content: center;
-  padding-left: 10px;
+.title {
+  text-align: center;
+  height: 760px;
+}
+
+.upperTitle {
+  font-size: 50px;
+  margin-top: 25px;
+  text-align: right;
+}
+
+.topic1 .myList {
+  text-align: right;
 }
