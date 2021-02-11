@@ -27,10 +27,13 @@ body {
 #myButton {
   background-color: #49a7a7;
   color: white;
-  border-radius: 3px;
+  border-radius: 20px;
   font-size: 30px;
   text-align: center;
   width: 250px;
+  outline: none;
+  border-width: 0px;
+  margin-top: 20px;
 }
 
 .title {
