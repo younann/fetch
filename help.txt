@@ -1,0 +1,6 @@
+https://hackerthemes.com/bootstrap-cheatsheet/ 
+https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/
+https://websitesetup.org/bootstrap-cheat-sheet/
+https://www.w3schools.com/css/css3_animations.asp 
+https://gist.github.com/bartholomej/8415655 
+https://mac-blog.org.ua/css-3-media-queries-cheat-sheet/ 
